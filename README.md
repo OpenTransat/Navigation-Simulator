@@ -2,9 +2,9 @@
 # Navigation Simulator
 Simulating the navigation algorithm:
 
-* on the PC; the boat controller source code is rewritten into Python (SIMULATE = False)
+* on the PC; the boat controller source code is rewritten into Python (SIMULATE_ON_BOAT = False)
 
-* on the boat controller; the controller communicates with the PC via serial cable (SIMULATE = True)
+* on the boat controller; the controller communicates with the PC via serial cable (SIMULATE_ON_BOAT = True)
 
 ## Video: Running the Simulation
 
